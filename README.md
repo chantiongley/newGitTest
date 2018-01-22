@@ -1,3 +1,3 @@
 # newGitTest
 
-Hello !!!
+Hello
