@@ -1,4 +1,0 @@
-# newGitTest
-
-Hello!
-  ABCDEFGHIJKLMNOPQRSTUVWYZ
